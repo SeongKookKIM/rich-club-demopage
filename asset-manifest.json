@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6acd5c2.css",
+    "main.js": "/static/js/main.c919bf8a.js",
+    "static/media/esamanru OTF Medium.otf": "/static/media/esamanru OTF Medium.7f60da04a389283e7758.otf",
+    "static/media/esamanru OTF Bold.otf": "/static/media/esamanru OTF Bold.ff762617ead545736c7d.otf",
+    "static/media/esamanru OTF Light.otf": "/static/media/esamanru OTF Light.7b9cbfd88431effbef7c.otf",
+    "static/media/NFT_explanation.png": "/static/media/NFT_explanation.d1ad3814127029c9cc3a.png",
+    "static/media/Background_light.png": "/static/media/Background_light.ace5879edb2e4a6dfd2a.png",
+    "static/media/NFT_Main_Name.png": "/static/media/NFT_Main_Name.5e8ee31ee44908b1af0f.png",
+    "index.html": "/index.html",
+    "main.a6acd5c2.css.map": "/static/css/main.a6acd5c2.css.map",
+    "main.c919bf8a.js.map": "/static/js/main.c919bf8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6acd5c2.css",
+    "static/js/main.c919bf8a.js"
+  ]
+}
